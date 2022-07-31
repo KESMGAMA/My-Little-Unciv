@@ -1,0 +1,123 @@
+[
+  {
+    "name": "Equestria",
+    "leaderName": "Princess Celestia",
+    "adjective": [
+      "equestrian"
+    ],
+    "startBias": [
+      "Hill"
+    ],
+    "preferredVictoryType": "Diplomatic",
+    "declaringWar": "We regret this, but we have no other choice. It is time to defend harmony.",
+    "attacked": "We thought we could maintain harmony, but we were wrong.",
+    "defeated": "Please have mercy on my ponies.",
+    "introduction": "Greetings, the empire of Equestria welcomes you with pleasure and respect.",
+    "neutralHello": "Greetings.",
+    "hateHello": "What do you need?",
+    "tradeRequest": "Would you accept this proposal?",
+    "outerColor": [
+      99,
+      206,
+      255
+    ],
+    "innerColor": [
+      255,
+      255,
+      255
+    ],
+    "uniqueName": "Elements of Harmony",
+    "cities": [
+      "Canterlot",
+      "Manehattan",
+      "Fillydelphia",
+      "Whynnyapolis",
+      "Bales",
+      "Ponyville",
+      "Cloudsdale",
+      "Baltimare",
+      "Rockville",
+      "Las Pegasus",
+      "Vanhoover",
+      "Tall Tale",
+      "Appleloosa"
+    ]
+  },
+  {
+    "name": "Changeling Lands",
+    "leaderName": "Queen Chrysalis",
+    "adjective": [
+      "changeling"
+    ],
+    "startBias": [
+      "Desert"
+    ],
+    "preferredVictoryType": "Domination",
+    "declaringWar": "Te informo que tu insignificante existencia está a punto de acabar.",
+    "attacked": "¡Tonto! ¡Serás aniquilado!",
+    "defeated": "¡Cómo pasó esto!",
+    "introduction": "Hola, soy la reyna Chrysalis, líder de los cambiantes, si eres lo suficientemente listo, te quitarás de nuestro camino.",
+    "neutralHello": "¿Qué quieres?",
+    "hateHello": "¡Largo!",
+    "tradeRequest": "Responde rápido, no tengo todo tu tiempo.",
+    "outerColor": [
+      34,
+      34,
+      34
+    ],
+    "innerColor": [
+      0,
+      205,
+      38
+    ],
+    "uniqueName": "Infiltrados Cambiantes",
+    "uniques": [
+      "[+2 Food] from [Terreno Cambiante] tiles [in all cities]"
+    ],
+    "cities": [
+      "Vesalipolis",
+      "Dytrisium",
+      "Vraks",
+      "Lyctida",
+      "Soryth"
+    ]
+  },
+  {
+    "name": "Reino de Aquilea",
+    "leaderName": "Rey Moriset",
+    "adjective": [
+      "aquileano"
+    ],
+    "startBias": [
+      "Coast"
+    ],
+    "preferredVictoryType": "Scientific",
+    "declaringWar": "Prepárate para morir.",
+    "attacked": "¡Cómo te atreves a atacarnos!",
+    "defeated": "¡El reyno de Aquilea nunca se rendirá!",
+    "introduction": "Salve! Soy el rey Moriset, líder del Reyno de Aquilea, espero llevarnos muy bien.",
+    "neutralHello": "Salve!",
+    "hateHello": "¿Qué quieres?",
+    "tradeRequest": "Espero aceptes esta propuesta.",
+    "outerColor": [
+      75,
+      39,
+      51
+    ],
+    "innerColor": [
+      166,
+      123,
+      63
+    ],
+    "uniqueName": "El Legado de Coltbert",
+    "uniques": [
+      "Rebel units may spawn <when below [-5] Happiness>",
+      "[+1 Science, +2 Production] [in all cities]"
+    ],
+    "cities": [
+      "Aquila",
+      "Rila",
+      "Pridea"
+    ]
+  }
+]
