@@ -5,9 +5,7 @@
     "adjective": [
       "equestrian"
     ],
-    "startBias": [
-      "Hill"
-    ],
+    "startBias": ["Avoid [Tundra]","Avoid [Snow]"],
     "preferredVictoryType": "Diplomatic",
     "declaringWar": "We regret this, but we have no other choice. It is time to defend harmony.",
     "attacked": "We thought we could maintain harmony, but we were wrong.",
@@ -73,6 +71,7 @@
     ],
     "uniqueName": "Changeling Infiltration",
     "uniques": [
+      //CAMBIAR PROXIMAMENTE
       "[+1 Food] from [Desert] tiles [in all cities]"
     ],
     "cities": [
