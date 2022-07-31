@@ -50,16 +50,17 @@
       "changeling"
     ],
     "startBias": [
+      //CAMBIAR PROXIMAMENTE
       "Desert"
     ],
     "preferredVictoryType": "Domination",
-    "declaringWar": "Te informo que tu insignificante existencia está a punto de acabar.",
-    "attacked": "¡Tonto! ¡Serás aniquilado!",
-    "defeated": "¡Cómo pasó esto!",
-    "introduction": "Hola, soy la reyna Chrysalis, líder de los cambiantes, si eres lo suficientemente listo, te quitarás de nuestro camino.",
-    "neutralHello": "¿Qué quieres?",
-    "hateHello": "¡Largo!",
-    "tradeRequest": "Responde rápido, no tengo todo tu tiempo.",
+    "declaringWar": "I inform you that your insignificant existence is about to end.",
+    "attacked": "Stupid! You will be annihilated!",
+    "defeated": "How did this happen!",
+    "introduction": "Hi, I'm Queen Chrysalis, leader of the changelings, if you're smart enough, you'll get out of our way.",
+    "neutralHello": "What do you want!?",
+    "hateHello": "¡Get out!",
+    "tradeRequest": "Respond quickly, I don't have all your time.",
     "outerColor": [
       34,
       34,
@@ -70,9 +71,9 @@
       205,
       38
     ],
-    "uniqueName": "Infiltrados Cambiantes",
+    "uniqueName": "Changeling Infiltration",
     "uniques": [
-      "[+2 Food] from [Terreno Cambiante] tiles [in all cities]"
+      "[+1 Food] from [Desert] tiles [in all cities]"
     ],
     "cities": [
       "Vesalipolis",
@@ -83,22 +84,22 @@
     ]
   },
   {
-    "name": "Reino de Aquilea",
-    "leaderName": "Rey Moriset",
+    "name": "Kingdom of Aquileia",
+    "leaderName": "King Moriset",
     "adjective": [
-      "aquileano"
+      "aquileian"
     ],
     "startBias": [
       "Coast"
     ],
     "preferredVictoryType": "Scientific",
-    "declaringWar": "Prepárate para morir.",
-    "attacked": "¡Cómo te atreves a atacarnos!",
-    "defeated": "¡El reyno de Aquilea nunca se rendirá!",
-    "introduction": "Salve! Soy el rey Moriset, líder del Reyno de Aquilea, espero llevarnos muy bien.",
-    "neutralHello": "Salve!",
-    "hateHello": "¿Qué quieres?",
-    "tradeRequest": "Espero aceptes esta propuesta.",
+    "declaringWar": "Prepare to die.",
+    "attacked": "How dare you attack us!",
+    "defeated": "The kingdom of Aquileia will never give up!",
+    "introduction": "Grettings! I am King Moriset, leader of the Kingdom of Aquileia, I hope we get along very well.",
+    "neutralHello": "Grettings!",
+    "hateHello": "What do you want!?",
+    "tradeRequest": "I hope you accept this proposal.",
     "outerColor": [
       75,
       39,
@@ -109,7 +110,7 @@
       123,
       63
     ],
-    "uniqueName": "El Legado de Coltbert",
+    "uniqueName": "Coltbert Legacy",
     "uniques": [
       "Rebel units may spawn <when below [-5] Happiness>",
       "[+1 Science, +2 Production] [in all cities]"
