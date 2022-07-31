@@ -1,7 +1,6 @@
 {
   isBaseRuleset:true,
-  lastUpdated:2022-07-06T16:19:15Z,
-  modUrl:"https://github.com/SpacedOutChicken/DeCiv-Redux",
+  modUrl:"https://github.com/KESMGAMA/My-Little-Unciv",
   author:KESMGAMA,
   constants:{maxXPfromBarbarians:150,cityStrengthBase:20,cityStrengthPerPop:0.5,unitUpgradeCost:{}}
 }
