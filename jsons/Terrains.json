@@ -145,6 +145,20 @@
 				"Every [17] tiles with this terrain will receive a major deposit of a strategic resource.",
 				"Never receives any resources <in [Hill] tiles>"]
 	},
+	{
+		"name": "Badlands",
+		"type": "Land",
+		"movementCost": 2,
+		"RGB": [108,108,79],
+		"uniques": ["Occurs at temperature between [-0.9] and [-0.6] and humidity between [0.8] and [1]",
+			    "Occurs at temperature between [-0.8] and [-0.5] and humidity between [0.6] and [0.8]",
+			    "Occurs at temperature between [-0.7] and [-0.4] and humidity between [0.4] and [0.6]",
+			    "Occurs at temperature between [-0.6] and [-0.4] and humidity between [0.2] and [0.4]",
+			    "Occurs at temperature between [-0.5] and [-0.4] and humidity between [0] and [0.2]",
+				"Always Fertility [-1] for Map Generation",
+				"A Region is formed with at least [30]% [Badlands] tiles and [Tundra] tiles, with priority [1]",
+				"Considered [Desirable] when determining start locations <in [Badlands] Regions>"]
+	},
 
 	// Terrain features
 	{
