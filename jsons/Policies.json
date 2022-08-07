@@ -21,6 +21,12 @@
                 ],
                 "row": 1,
                 "column": 1
+            },
+            {
+                "name": "Pony Culture Complete",
+                "uniques": [
+                    "[+15]% growth [in all cities]"
+                ]
             }
         ]
     },
@@ -45,6 +51,12 @@
                 ],
                 "row": 1,
                 "column": 1
+            },
+            {
+                "name": "Griffin Culture Complete",
+                "uniques": [
+                    "[+15]% growth [in all cities]"
+                ]
             }
         ]
     }
