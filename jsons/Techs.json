@@ -13,25 +13,33 @@
 			}
 		]
 	},
-  {
-		"columnNumber": 1,
-		"era": "Ancient era",
-		"techCost": 9500,
-		"buildingCost": 750,
-		"wonderCost": 1250,
+        {
+		"columnNumber": 10,
+		"era": "Friendship era",
+		"techCost": 780,
+		"buildingCost": 200,
+		"wonderCost": 500,
 		"techs": [
 			{
-				"name": "Future Tech",
+				"name": "Globalization",
 				"row": 5,
 				"prerequisites": ["Agriculture"],
-				"uniques": ["Who knows what the future holds?", "Can be continually researched"],
-				"quote": "'I think we agree, the past is over.' - George W. Bush"
-			},
+				"quote": ""
+			}
+		]
+	},
+	{
+		"columnNumber": 10,
+		"era": "Friendship era",
+		"techCost": 1150,
+		"buildingCost": 250,
+		"wonderCost": 625,
+		"techs": [
 			{
 				"name": "Pony History",
 				"row": 4,
-				"prerequisites": ["Future Tech"],
-				"quote": "'I think we agree, the past is over.' - George W. Bush"
+				"prerequisites": ["Globalization"],
+				"quote": ""
 			}
 		]
 	}
