@@ -19,7 +19,7 @@
 			},
 			{
 				"name": "Pony History II",
-				"row": 4,
+				"row": 3,
 				"prerequisites": ["Pony History"],
 				"quote": "",
 			}
