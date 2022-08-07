@@ -1,4 +1,5 @@
 [
+	//BASICS
 	{
 		"name": "Worker",
 		"unitType": "Civilian",
@@ -15,15 +16,24 @@
 			"Requires at least [2] population"],
 		"hurryCostModifier": 20
 	},
-  {
+	
+	//ANCIENT ERA
+        {
 		"name": "Warrior",
 		"unitType": "Melee",
 		"movement": 2,
 		"strength": 8,
 		"cost": 40,
-		"attackSound": "nonmetalhit",
-        "civilopediaText": [
-			{"text": "This is your basic, club-swinging fighter."}
-		]
+		"attackSound": "nonmetalhit"
+	},
+	{
+		"name": "Pony Warrior",
+		"unitType": "Melee",
+		"uniqueTo": ["Equestria","Changeling Lands"],
+		"replaces": "Warrior",
+		"movement": 2,
+		"strength": 8,
+		"cost": 40,
+		"attackSound": "nonmetalhit"
 	}
 ]
