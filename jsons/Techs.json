@@ -14,6 +14,13 @@
 			{
 				"name": "Pony History",
 				"row": 4,
+				"prerequisites": ["Pony History II"],
+				"quote": "",
+			},
+			{
+				"name": "Pony History II",
+				"row": 4,
+				"prerequisites": ["Pony History"],
 				"quote": "",
 			}
 		]
