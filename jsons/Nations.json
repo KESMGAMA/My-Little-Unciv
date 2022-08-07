@@ -26,7 +26,7 @@
     ],
     "uniqueName": "Elements of Harmony",
     "uniques": [
-      "Starts with [Pony History]"
+      "Starts with [Pony Culture] adopted"
     ],
     "cities": [
       "Canterlot",
@@ -115,7 +115,8 @@
     "uniqueName": "Coltbert Legacy",
     "uniques": [
       "Rebel units may spawn <when below [-5] Happiness>",
-      "[+1 Science, +2 Production] [in all cities]"
+      "[+1 Science, +2 Production] [in all cities]",
+      "Starts with [Griffin Culture] adopted"
     ],
     "cities": [
       "Aquila",
