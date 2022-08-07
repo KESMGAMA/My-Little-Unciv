@@ -7,9 +7,14 @@
 		"techs": [
 			{
 				"name": "Agriculture",
-				"row": 1,
-				"quote": "'Where tillage begins, other arts follow. The farmers therefore are the founders of human civilization.' - Daniel Webster",
+				"row": 5,
+				"quote": "",
 				"uniques": ["Starting tech"]
+			},
+			{
+				"name": "Pony History",
+				"row": 4,
+				"quote": "",
 			}
 		]
 	},
@@ -22,7 +27,7 @@
 		"techs": [
 			{
 				"name": "Future Tech",
-				"row": 1,
+				"row": 5,
 				"prerequisites": ["Agriculture"],
 				"uniques": ["Who knows what the future holds?", "Can be continually researched"],
 				"quote": "'I think we agree, the past is over.' - George W. Bush"
