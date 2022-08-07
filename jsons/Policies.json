@@ -1,0 +1,51 @@
+[
+    {
+        "name": "Pony Culture",
+        "era": "Ancient era",
+        "priorities": {
+            "Neutral": 0,
+            "Cultural": 0,
+            "Diplomatic": 0,
+            "Domination": 0,
+            "Scientific": 0
+        },
+        "uniques": [
+            "Provides a [Pony Monument] in your first [100] cities for free"
+        ],
+        "policies": [
+            {
+                "name": "Cutie Mark",
+                "uniques": [
+                    "[+50]% XP gained from combat <for [Military] units>",
+                    "[+1 Happiness] per [5] population [in all cities]"
+                ],
+                "row": 1,
+                "column": 1
+            }
+        ]
+    },
+    {
+        "name": "Griffin Culture",
+        "era": "Ancient era",
+        "priorities": {
+            "Neutral": 0,
+            "Cultural": 0,
+            "Diplomatic": 0,
+            "Domination": 0,
+            "Scientific": 0
+        },
+        "uniques": [
+            "Provides a [Griffin Monument] in your first [100] cities for free"
+        ],
+        "policies": [
+            {
+                "name": "Aristocracy",
+                "uniques": [
+                    "[+15]% Production when constructing [All] wonders [in all cities]"
+                ],
+                "row": 1,
+                "column": 1
+            }
+        ]
+    }
+]
