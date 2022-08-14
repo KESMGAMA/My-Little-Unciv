@@ -26,11 +26,6 @@
 				"prerequisites": ["Agriculture"]
 			},
 			{
-				"name": "Mining",
-				"row": 4,
-				"prerequisites": ["Agriculture"]
-			},
-			{
 				"name": "Ground Tools",
 				"row": 6,
 				"prerequisites": ["Agriculture"]
