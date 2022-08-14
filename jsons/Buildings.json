@@ -11,10 +11,13 @@
 		"cost": 1,
 		"uniques": ["Indicates the capital city"]
 	},
-  {
+	{
 		"name": "Monument",
 		"culture": 2,
-		"uniques": ["Destroyed when the city is captured","Unbuildable"]
+		"cost": 40,
+		"hurryCostModifier": 40,
+		"maintenance": 1,
+		"uniques": ["Destroyed when the city is captured"]
 	},
 	{
 		"name": "United Nations",
