@@ -10,7 +10,7 @@
             "Scientific": 0
         },
         "uniques": [
-            "Provides a [Pony Monument] in your first [100] cities for free"
+            "Provides a [Monument] in your first [5] cities for free"
         ],
         "policies": [
             {
@@ -41,7 +41,7 @@
             "Scientific": 0
         },
         "uniques": [
-            "Provides a [Griffin Monument] in your first [100] cities for free"
+            "Provides a [Monument] in your first [5] cities for free"
         ],
         "policies": [
             {
