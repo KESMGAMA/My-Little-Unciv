@@ -13,6 +13,64 @@
 			}
 		]
 	},
+	{
+		"columnNumber": 1,
+		"era": "Ancient era",
+		"techCost": 35,
+		"buildingCost": 60,
+		"wonderCost": 185,
+		"techs": [
+			{
+				"name": "Animal Husbandry",
+				"row": 2,
+				"prerequisites": ["Agriculture"]
+			},
+			{
+				"name": "Mining",
+				"row": 4,
+				"prerequisites": ["Agriculture"]
+			},
+			{
+				"name": "Ground Tools",
+				"row": 6,
+				"prerequisites": ["Agriculture"]
+			},
+			{
+				"name": "Magic Tools",
+				"row": 8,
+				"prerequisites": ["Agriculture"]
+			},
+			{
+				"name": "Air Tools",
+				"row": 10,
+				"prerequisites": ["Agriculture"]
+			}
+		]
+	},
+	{
+		"columnNumber": 2,
+		"era": "Ancient era",
+		"techCost": 55,
+		"buildingCost": 75,
+		"wonderCost": 185,
+		"techs": [
+			{
+				"name": "Sailing",
+				"row": 5,
+				"prerequisites": ["Ground Tools"]
+			},
+			{
+				"name": "Writing",
+				"row": 6,
+				"prerequisites": ["Ground Tools"]
+			},
+			{
+				"name": "Wizardry",
+				"row": 8,
+				"prerequisites": ["Ground Tools","Magic Tools"]
+			}
+		]
+	},
         {
 		"columnNumber": 10,
 		"era": "Friendship era",
