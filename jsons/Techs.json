@@ -63,7 +63,11 @@
 				"name": "Wizardry",
 				"row": 8,
 				"prerequisites": ["Ground Tools","Magic Tools"]
-			}
+			},
+			{
+				"name": "Diurnal Cycle",
+				"row": 9,
+				"prerequisites": ["Air Tools","Magic Tools"]
 		]
 	},
         {
