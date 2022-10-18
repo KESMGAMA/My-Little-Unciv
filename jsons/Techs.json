@@ -68,6 +68,7 @@
 				"name": "Diurnal Cycle",
 				"row": 9,
 				"prerequisites": ["Air Tools","Magic Tools"]
+			}
 		]
 	},
         {
