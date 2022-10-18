@@ -94,7 +94,7 @@
 		"wonderCost": 625,
 		"techs": [
 			{
-				"name": "Pony History",
+				"name": "Pony History I",
 				"row": 4,
 				"prerequisites": ["Globalization"],
 				"quote": ""
