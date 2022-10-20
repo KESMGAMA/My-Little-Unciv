@@ -6,7 +6,7 @@
 		"terrainsCanBeFoundOn": ["Grassland"],
 		"food": 1,
 		"improvement": "Farm",
-		"improvementStats": {"food": 1},
+		"improvementStats": {"food": 2},
 		"uniques": ["Generated on every [18] tiles <in [Featureless] [Grassland] tiles>",
 					"Generated on every [22] tiles <in [Featureless] [Grassland] tiles> <in [Hill] Regions>"]
 	},
@@ -16,9 +16,19 @@
 		"terrainsCanBeFoundOn": ["Jungle","Grassland"],
 		"food": 1,
 		"improvement": "Plantation",
-		"improvementStats": {"food": 2,"production": -1,"gold": -1},
+		"improvementStats": {"food": 2},
 		"uniques": ["Generated on every [14] tiles <in [Jungle] tiles>",
 					"Generated on every [16] tiles <in [Jungle] tiles> <in [Hill] Regions>"]
+	},
+	{
+		"name": "Carrots",
+		"resourceType": "Bonus",
+		"terrainsCanBeFoundOn": ["Grassland","Forest"],
+		"food": 1,
+		"improvement": "Farm",
+		"improvementStats": {"food": 1},
+		"uniques": ["Generated on every [18] tiles <in [Featureless] [Grassland] tiles>",
+					"Generated on every [22] tiles <in [Featureless] [Grassland] tiles> <in [Tundra] Regions>"]
 	},
 	{
 		"name": "Cattle",
@@ -41,12 +51,31 @@
 					"Generated on every [22] tiles <in [Featureless] [Plains] tiles> <in [Hill] Regions>"]
 	},
 	{
+		"name": "Corn",
+		"resourceType": "Bonus",
+		"terrainsCanBeFoundOn": ["Grassland","Plains","Hill","Jungle","Forest","Marsh"],
+		"food": 1,
+		"improvement": "Farm",
+		"improvementStats": {"food": 1},
+		"uniques": ["Generated with weight [35] <in [Hill] tiles>",
+					"Generated with weight [30] <in [Jungle] tiles> <in tiles without [Hill]>",
+					"Generated with weight [30] <in [Forest] tiles> <in tiles without [Hill]>",
+					"Minor deposits generated with weight [10] <in [Marsh] tiles> <in tiles without [Hill]>",
+					"Minor deposits generated with weight [10] <in [Jungle] tiles>",
+					"Minor deposits generated with weight [10] <in [Forest] tiles>",
+					"Minor deposits generated with weight [20] <in [Grassland] [Hill] tiles>",
+					"Minor deposits generated with weight [20] <in [Plains] [Hill] tiles>",
+					"Minor deposits generated with weight [30] <in [Desert] [Hill] tiles>",
+					"Minor deposits generated with weight [30] <in [Tundra] [Hill] tiles>",
+					"Minor deposits generated with weight [30] <in [Snow] [Hill] tiles>"]
+	},
+	{
 		"name": "Sheep",
 		"resourceType": "Bonus",
 		"terrainsCanBeFoundOn": ["Hill"],
 		"food": 1,
 		"improvement": "Pasture",
-		"improvementStats": {"food": 1},
+		"improvementStats": {"production": 1},
 		"uniques": ["Generated on every [13] tiles <in [Hill] tiles> <in tiles without [Forest]> <in tiles without [Jungle]>",
 					"Generated on every [10] tiles <in [Hill] tiles> <in tiles without [Forest]> <in tiles without [Jungle]> <in tiles without [Fresh Water]> <in [Hill] Regions>"]
 	},
@@ -88,5 +117,14 @@
 					"Minor deposits generated with weight [10] <in [Featureless] [Snow] tiles>"],
 		"majorDepositAmount": {"sparse": 4, "default": 6, "abundant": 9},
 		"minorDepositAmount": {"sparse": 1, "default": 2, "abundant": 3}
+	},
+	
+	
+	//Luxury resourses
+	{
+		"name": "Cider",
+		"resourceType": "Luxury",
+		"gold": 2,
+		"food": 1
 	}
 ]
