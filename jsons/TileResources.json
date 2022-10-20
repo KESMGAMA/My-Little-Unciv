@@ -5,7 +5,7 @@
 		"resourceType": "Bonus",
 		"terrainsCanBeFoundOn": ["Grassland"],
 		"food": 1,
-		"improvement": "Farm",
+		"improvement": "Plantation",
 		"improvementStats": {"food": 2},
 		"uniques": ["Generated on every [18] tiles <in [Featureless] [Grassland] tiles>",
 					"Generated on every [22] tiles <in [Featureless] [Grassland] tiles> <in [Hill] Regions>"]
@@ -45,7 +45,7 @@
 		"resourceType": "Bonus",
 		"terrainsCanBeFoundOn": ["Plains"],
 		"food": 1,
-		"improvement": "Farm",
+		"improvement": "Plantation",
 		"improvementStats": {"food": 1},
 		"uniques": ["Generated on every [18] tiles <in [Featureless] [Plains] tiles>",
 					"Generated on every [22] tiles <in [Featureless] [Plains] tiles> <in [Hill] Regions>"]
