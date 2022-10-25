@@ -77,7 +77,7 @@
 			{
 				"name": "Bronze Working",
 				"row": 10,
-				"prerequisites": ["Pottery"]
+				"prerequisites": ["Mining"]
 			}
 		]
 	}
