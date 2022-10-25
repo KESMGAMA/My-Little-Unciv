@@ -1,4 +1,9 @@
 [
+	//Basics
+	{
+		"name": "Pony Monument",
+		"uniques": ["Unsellable","Unbuildable","Destroyed when the city is captured","Provides [1] [Ponies]"]
+	},
 	//Column 1
 	{
 		"name": "Palace",
