@@ -25,14 +25,5 @@
 		"strength": 8,
 		"cost": 40,
 		"attackSound": "nonmetalhit"
-	},
-	{
-		"name": "Pony Warrior",
-		"unitType": "Melee",
-		"requiredTech": "Pony History I",
-		"movement": 2,
-		"strength": 8,
-		"cost": 40,
-		"attackSound": "nonmetalhit"
 	}
 ]
