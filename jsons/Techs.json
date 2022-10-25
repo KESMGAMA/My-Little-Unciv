@@ -7,7 +7,7 @@
 		"techs": [
 			{
 				"name": "Agriculture",
-				"row": 5,
+				"row": 6,
 				"quote": "",
 				"uniques": ["Starting tech"]
 			}
@@ -21,23 +21,23 @@
 		"wonderCost": 185,
 		"techs": [
 			{
-				"name": "Animal Husbandry",
+				"name": "Pottery",
 				"row": 2,
 				"prerequisites": ["Agriculture"]
 			},
 			{
-				"name": "Ground Tools",
-				"row": 6,
+				"name": "Magical Knowledge",
+				"row": 5,
 				"prerequisites": ["Agriculture"]
 			},
 			{
-				"name": "Magic Tools",
-				"row": 8,
+				"name": "Animal Husbandry",
+				"row": 7,
 				"prerequisites": ["Agriculture"]
 			},
 			{
-				"name": "Air Tools",
-				"row": 10,
+				"name": "Mining",
+				"row": 9,
 				"prerequisites": ["Agriculture"]
 			}
 		]
@@ -51,53 +51,33 @@
 		"techs": [
 			{
 				"name": "Sailing",
-				"row": 5,
-				"prerequisites": ["Ground Tools"]
+				"row": 1,
+				"prerequisites": ["Pottery"]
 			},
 			{
 				"name": "Writing",
-				"row": 6,
-				"prerequisites": ["Ground Tools"]
+				"row": 2,
+				"prerequisites": ["Pottery"]
 			},
 			{
-				"name": "Wizardry",
-				"row": 8,
-				"prerequisites": ["Ground Tools","Magic Tools"]
+				"name": "Calendar",
+				"row": 3,
+				"prerequisites": ["Pottery"]
 			},
 			{
-				"name": "Diurnal Cycle",
+				"name": "The Wheel",
+				"row": 7,
+				"prerequisites": ["Animal Husbandry"]
+			},
+			{
+				"name": "Masonry",
 				"row": 9,
-				"prerequisites": ["Air Tools","Magic Tools"]
-			}
-		]
-	},
-        {
-		"columnNumber": 10,
-		"era": "Friendship era",
-		"techCost": 780,
-		"buildingCost": 200,
-		"wonderCost": 500,
-		"techs": [
+				"prerequisites": ["Mining"]
+			},
 			{
-				"name": "Globalization",
-				"row": 5,
-				"prerequisites": ["Agriculture"],
-				"quote": ""
-			}
-		]
-	},
-	{
-		"columnNumber": 11,
-		"era": "Friendship era",
-		"techCost": 1150,
-		"buildingCost": 250,
-		"wonderCost": 625,
-		"techs": [
-			{
-				"name": "Pony History I",
-				"row": 4,
-				"prerequisites": ["Globalization"],
-				"quote": ""
+				"name": "Bronze Working",
+				"row": 10,
+				"prerequisites": ["Pottery"]
 			}
 		]
 	}
