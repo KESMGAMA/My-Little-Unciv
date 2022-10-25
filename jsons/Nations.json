@@ -81,44 +81,5 @@
       "Lyctida",
       "Soryth"
     ]
-  },
-  {
-    "name": "Kingdom of Aquileia",
-    "leaderName": "King Moriset",
-    "adjective": [
-      "aquileian"
-    ],
-    "startBias": [
-      "Coast"
-    ],
-    "preferredVictoryType": "Scientific",
-    "declaringWar": "Prepare to die.",
-    "attacked": "How dare you attack us!",
-    "defeated": "The kingdom of Aquileia will never give up!",
-    "introduction": "Grettings! I am King Moriset, leader of the Kingdom of Aquileia, I hope we get along very well.",
-    "neutralHello": "Grettings!",
-    "hateHello": "What do you want!?",
-    "tradeRequest": "I hope you accept this proposal.",
-    "outerColor": [
-      75,
-      39,
-      51
-    ],
-    "innerColor": [
-      166,
-      123,
-      63
-    ],
-    "uniqueName": "Coltbert Legacy",
-    "uniques": [
-      "Rebel units may spawn <when below [-5] Happiness>",
-      "[+1 Science, +2 Production] [in all cities]",
-      "Starts with [Griffin Culture] adopted"
-    ],
-    "cities": [
-      "Aquila",
-      "Rila",
-      "Pridea"
-    ]
   }
 ]
